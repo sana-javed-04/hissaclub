@@ -2,6 +2,8 @@
 
 > A transparent group expense and milestone pooling platform built for seamless collective collections with zero awkward follow-ups.
 
+🌐 **Live Demo:** [https://hissaclub.vercel.app/](https://hissaclub.vercel.app/)
+
 ---
 
 ## 📌 Overview
@@ -68,6 +70,6 @@ Ensure you have Node.js (v18 or higher) installed on your system.
 - **Name:** Sana Javed
 - **Role:** Frontend Developer & WordPress Expert
 - **Education:** BS Computer Science
-- **Profiles:** [GitHub](https://github.com/sana-javed-04/) | [LinkedIn](https://www.linkedin.com/in/sana-javed-dev/) | [Fiverr](https://www.fiverr.com/users/sanajaved_dev/)
+- **Profiles:** [Portfolio](https://sanajaved-dev.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sana-javed-dev/) | [Fiverr](https://www.fiverr.com/users/sanajaved_dev/)
 
 ---
